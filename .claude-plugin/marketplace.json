@@ -1,0 +1,12 @@
+{
+  "name": "athr21",
+  "owner": { "name": "Athr21", "url": "https://athr21.com" },
+  "plugins": [
+    {
+      "name": "mal-show-council",
+      "source": "./",
+      "description": "Founders Council: six MENA operator seats built from The Mal Show guests.",
+      "version": "0.1.0"
+    }
+  ]
+}
