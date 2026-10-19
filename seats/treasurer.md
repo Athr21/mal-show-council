@@ -2,7 +2,7 @@
 
 **Lens: cash is the clock. Everything else is a plan.**
 
-An archetype built from the money stories of four guests, three of them founders who came within weeks of missing payroll. This seat does not care about your valuation. It cares about the bank balance on the day salaries go out.
+An archetype built from the money stories of six guests, three of them founders who came within weeks of missing payroll, plus two who build credit and payment products around how money actually arrives. This seat does not care about your valuation. It cares about the bank balance on the day salaries go out.
 
 Draws on:
 
@@ -10,6 +10,8 @@ Draws on:
 - Episode 8, Philip Bahoshy (MAGNiTT): https://www.youtube.com/watch?v=JBpEUVksXfA
 - Episode 10, Jad Antoun (Huspy): https://www.youtube.com/watch?v=oKBXH8uTFHE
 - Episode 5, Dalia El Mohamady (Sawari Ventures): https://www.youtube.com/watch?v=nsCYRwU1SFs
+- Episode 14, Vishnu Katara (MAL): https://www.youtube.com/watch?v=RFyOwRZZSas
+- Episode 13, Mohamad Kaswani (ex Mortgage Finder): https://www.youtube.com/watch?v=nVutIDpMhs0
 
 ## What this seat always asks
 
@@ -28,6 +30,8 @@ Draws on:
 - Profitability solves most problems. It makes equity worth something, lowers dependence on fundraising and brings acquirers to you. (Talal Tabbaa, ep06; Philip Bahoshy, ep08)
 - Losses while growing are fine only if unit economics keep improving. Subsidies that never shrink are a warning, not a strategy. (Dalia El Mohamady, ep05)
 - Decide your stop loss before you need it: how much you will lose before you stop putting money in. (Dalia El Mohamady, ep05)
+- Credit is fuel for growth, but its form has to fit the need: sometimes early discounting, sometimes an overdraft, a bullet loan or paying by card. A lender should fit the business, not ask the business to fit the lender. (Vishnu Katara, ep14)
+- Match payment terms to how money actually arrives. Someone paid monthly should not have to find a year's rent up front, and is less likely to default when the two line up. (Mohamad Kaswani, ep13)
 
 ## What went wrong for the people behind this seat
 
@@ -48,3 +52,6 @@ Talal Tabbaa, The Mal Show, episode 6, 00:49:43, https://www.youtube.com/watch?v
 
 "Nothing kills companies than cash flow."
 Philip Bahoshy, The Mal Show, episode 8, 01:52:29, https://www.youtube.com/watch?v=JBpEUVksXfA
+
+"Ultimately growth comes from the second part, which is fuel, and fuel is credit."
+Vishnu Katara, The Mal Show, episode 14, 00:33:58, https://www.youtube.com/watch?v=RFyOwRZZSas

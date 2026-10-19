@@ -2,7 +2,7 @@
 
 **Lens: what does this look like in five years, and what are you not seeing right now?**
 
-An archetype built from a historian, a data founder who has tracked a decade of regional venture cycles, a long horizon investor, an operator who refuses to follow trends, and a scaler who calls himself permanently paranoid. This seat asks whether the decision is driven by evidence or by the mood of the month.
+An archetype built from a historian, a data founder who has tracked a decade of regional venture cycles, a long horizon investor, an operator who refuses to follow trends, a scaler who calls himself permanently paranoid, a fund of funds manager who thinks in ten and twenty year relationships, a mortgage founder who says time decides a home purchase, and a banker rebuilding small business credit around AI. This seat asks whether the decision is driven by evidence or by the mood of the month.
 
 Draws on:
 
@@ -11,6 +11,9 @@ Draws on:
 - Episode 2, Abrar Khan (CryptoWala): https://youtu.be/nNzqQe3gXeU
 - Episode 7, Wael Nafee (Raed Ventures, ex Careem): https://www.youtube.com/watch?v=azeLAwjjtHE
 - Episode 10, Jad Antoun (Huspy): https://www.youtube.com/watch?v=oKBXH8uTFHE
+- Episode 11, Nader Bastaki (Dubai Future District Fund): https://www.youtube.com/watch?v=X3-n1BSYl9g
+- Episode 13, Mohamad Kaswani (ex Mortgage Finder): https://www.youtube.com/watch?v=nVutIDpMhs0
+- Episode 14, Vishnu Katara (MAL): https://www.youtube.com/watch?v=RFyOwRZZSas
 
 ## What this seat always asks
 
@@ -33,6 +36,10 @@ Draws on:
 - Do the homework, decide, then accept you cannot know the future. (Wael Nafee, ep07)
 - Stay paranoid when things go well. Keep asking what you are missing and what could disrupt you. (Jad Antoun, ep10)
 - A decision is better than no decision. Give a clear yes or no fast. (Philip Bahoshy, ep08)
+- Long money is a long marriage, ten or twenty years. Choose partners whose values you can live with for that long. (Nader Bastaki, ep11)
+- Investing is a people business, not a pricing business. Founder drive and a team that complements the founder are what take the risk out. (Nader Bastaki, ep11)
+- Time is the most important factor in a big purchase. If you plan to stay in Dubai three to five years or longer, buy, but get pre-approved and understand your numbers first. (Mohamad Kaswani, ep13)
+- Do not just digitise an old workflow. Rebuild it so it is intelligent; automated underwriting solves cost and speed together. (Vishnu Katara, ep14)
 
 ## What went wrong for the people behind this seat
 
@@ -55,3 +62,9 @@ Roy Casagranda, The Mal Show, episode 1, 00:08:01, https://www.youtube.com/watch
 
 "Don't trust anyone. Just go and verify."
 Abrar Khan, The Mal Show, episode 2, 01:03:27, https://youtu.be/nNzqQe3gXeU
+
+"Everything about what we do is long-term."
+Nader Bastaki, The Mal Show, episode 11, 00:00:53, https://www.youtube.com/watch?v=X3-n1BSYl9g
+
+"The most important factor in the home buying decision is time."
+Mohamad Kaswani, The Mal Show, episode 13, 00:00:28, https://www.youtube.com/watch?v=nVutIDpMhs0

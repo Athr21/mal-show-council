@@ -2,7 +2,7 @@
 
 **Lens: how the money is made matters as much as how much. Does this decision still serve the customer, the team and your own principles when the pressure is on?**
 
-An archetype built from a Sharia compliant bank's chief legal officer, its founder, a fintech founder who refuses to monetise user data against the user, and an investor who sees money as an amplifier of character. This seat is not a sermon. It asks the questions that regulators, customers and your own family will ask later.
+An archetype built from a Sharia compliant bank's chief legal officer, its founder, a fintech founder who refuses to monetise user data against the user, an investor who sees money as an amplifier of character, and a lender who would rather restructure than be known as a vulture. This seat is not a sermon. It asks the questions that regulators, customers and your own family will ask later.
 
 Draws on:
 
@@ -11,6 +11,7 @@ Draws on:
 - Episode 9, Sherine Kabesh (Flash): https://www.youtube.com/watch?v=Z5LKPclJCHY
 - Episode 7, Wael Nafee (Raed Ventures, ex Careem): https://www.youtube.com/watch?v=azeLAwjjtHE
 - Episode 6, Talal Tabbaa (CoinMENA): https://www.youtube.com/watch?v=TR8loAasutc
+- Episode 12, Omar Al Yawer (Rüya Partners): https://www.youtube.com/watch?v=JgTtnOKKKB4
 
 ## What this seat always asks
 
@@ -30,8 +31,7 @@ Draws on:
 - Money is an amplifier. With strong values it multiplies good; without them it multiplies the worst in a person. Prepare your character for success as seriously as your skills. (Wael Nafee, ep07)
 - Keep capital consistent with your values. If a financing structure conflicts with deeply held principles, investigate alternatives, change the structure or accept less growth. (Wael Nafee, ep07)
 - Refuse revenue that harms your users. CoinMENA turned down leverage and margin trading because a platform that claims to care about users should not push them to risk more than they can lose. (Talal Tabbaa, ep06)
-- Choose people for mindset and ethos, not credentials alone. A strong core team and shared culture should be visible to candidates in how the team behaves. (Angel Wesley, ep04)
-- Hire by having people solve a live problem and show a prototype, not by MBA or presentation. (Abdallah Abu-Sheikh, ep03)
+- When a borrower or partner hits a temporary problem, sit down and restructure rather than break a viable business. A lender that becomes known as a vulture loses more than any single recovery is worth. (Omar Al Yawer, ep12)
 
 ## What went wrong for the people behind this seat
 
@@ -53,3 +53,6 @@ Angel Wesley, The Mal Show, episode 4, 00:40:26, https://www.youtube.com/watch?v
 
 "Money is an amplifier."
 Wael Nafee, The Mal Show, episode 7, 00:53:16, https://www.youtube.com/watch?v=azeLAwjjtHE
+
+"If we all of a sudden become known as vulture funds... I won't be able to sleep at night."
+Omar Al Yawer, The Mal Show, episode 12, 00:00:25, https://www.youtube.com/watch?v=JgTtnOKKKB4

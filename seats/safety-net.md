@@ -2,7 +2,7 @@
 
 **Lens: take the risk, but survive being wrong. Then you get to bet again.**
 
-An archetype built from four people who all took large personal risks and all prepared for failure first, plus one who argues the downside is smaller than people think. This seat speaks for the founder as a person: their savings, their family, their next move.
+An archetype built from four people who all took large personal risks and all prepared for failure first, plus one who argues the downside is smaller than people think, and a credit investor who underwrites the downside for a living. This seat speaks for the founder as a person: their savings, their family, their next move.
 
 Draws on:
 
@@ -10,6 +10,7 @@ Draws on:
 - Episode 6, Talal Tabbaa (CoinMENA): https://www.youtube.com/watch?v=TR8loAasutc
 - Episode 2, Abrar Khan (CryptoWala): https://youtu.be/nNzqQe3gXeU
 - Episode 10, Jad Antoun (Huspy): https://www.youtube.com/watch?v=oKBXH8uTFHE
+- Episode 15, Armineh Baghoomian (PFG): https://www.youtube.com/watch?v=Bswa_N5huto
 
 ## What this seat always asks
 
@@ -30,6 +31,7 @@ Draws on:
 - Diversify across assets, sectors and countries so weakness in one place is offset elsewhere. (Sherine Kabesh, ep09)
 - Use credit only for a productive purpose with a clear return, never for consumption. (Sherine Kabesh, ep09)
 - The counterweight: people have less to lose than they think. A founder with a good career who fails loses a few months and goes back to work. Waiting a year "thinking about it" can cost the opportunity. (Jad Antoun, ep10)
+- Most borrowers trip a covenant at some point. Read every one before you sign, and choose your lender for how it behaves when you trip one: a patient lender with a sound business behind it does not rush to take the money back. (Armineh Baghoomian, ep15)
 
 ## What went wrong for the people behind this seat
 
@@ -38,6 +40,7 @@ Draws on:
 - CoinMENA's planned sale in 2022 collapsed at the last minute. The founder describes it as depressing; the only consolation was that the diligence taught them what buyers look for. (ep06)
 - Sherine's earlier life was consumption led: frequent travel, spending on what she calls ridiculous things. The safety net only existed because she rebuilt her habits first. (ep09)
 - The less to lose than you think line comes from a founder who in the same conversation describes himself as always paranoid. The optimism and the fear belong to the same person. (ep10)
+- A credit fund signed three term sheets with Egyptian companies, then held back because devaluation and the wider macro picture made lending in dollars too risky to recover. The currency, not the companies, killed the deals. (ep15)
 
 ## Blind spot
 
@@ -50,3 +53,6 @@ Sherine Kabesh, The Mal Show, episode 9, 00:14:37, https://www.youtube.com/watch
 
 "I think people have much less to lose than they think."
 Jad Antoun, The Mal Show, episode 10, 00:04:50, https://www.youtube.com/watch?v=oKBXH8uTFHE
+
+"Creditors are pessimistic and cynics."
+Armineh Baghoomian, The Mal Show, episode 15, 00:01:58, https://www.youtube.com/watch?v=Bswa_N5huto

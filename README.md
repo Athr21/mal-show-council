@@ -14,12 +14,12 @@ Most AI "advisory boards" think like Silicon Valley: raise fast, burn, scale, ex
 
 | Seat | Lens | Built from |
 |---|---|---|
-| [Treasurer](seats/treasurer.md) | Cash is the clock. Everything else is a plan. | Ep 6, 8, 10, 5 |
-| [Capital Sceptic](seats/capital-sceptic.md) | Money is a tool with an owner. Whose, on what terms, for what use? | Ep 7, 5, 3, 8 |
-| [Safety Net](seats/safety-net.md) | Take the risk, but survive being wrong, so you can bet again. | Ep 9, 6, 2, 10 |
-| [Conscience](seats/conscience.md) | How the money is made matters as much as how much. | Ep 4, 3, 9, 7, 6 |
-| [Long View](seats/long-view.md) | What does this look like in five years, and what are you not seeing? | Ep 1, 8, 2, 7, 10 |
-| [Ambassador](seats/ambassador.md) | Buyers here decide on trust before price. Who vouches for you, and does the founder carry the story? | Ep 5, 8, 10, 7, 9, 6 |
+| [Treasurer](seats/treasurer.md) | Cash is the clock. Everything else is a plan. | Ep 6, 8, 10, 5, 14, 13 |
+| [Capital Sceptic](seats/capital-sceptic.md) | Money is a tool with an owner. Whose, on what terms, for what use? | Ep 7, 5, 3, 8, 15, 12, 11 |
+| [Safety Net](seats/safety-net.md) | Take the risk, but survive being wrong, so you can bet again. | Ep 9, 6, 2, 10, 15 |
+| [Conscience](seats/conscience.md) | How the money is made matters as much as how much. | Ep 4, 3, 9, 7, 6, 12 |
+| [Long View](seats/long-view.md) | What does this look like in five years, and what are you not seeing? | Ep 1, 8, 2, 7, 10, 11, 13, 14 |
+| [Ambassador](seats/ambassador.md) | Buyers here decide on trust before price. Who vouches for you, and does the founder carry the story? | Ep 5, 8, 10, 7, 9, 6, 4, 3, 11 |
 
 No seat is a named guest. Nobody here says "I am Talal". Every seat lists the episodes it draws on and carries a section on what went wrong for the people behind it.
 
@@ -75,6 +75,11 @@ The Mal Show, hosted by Youssef Samy Salem: https://www.youtube.com/@TheMalShow1
 - Ep 8, Philip Bahoshy (MAGNiTT): https://www.youtube.com/watch?v=JBpEUVksXfA
 - Ep 9, Sherine Kabesh (Flash): https://www.youtube.com/watch?v=Z5LKPclJCHY
 - Ep 10, Jad Antoun (Huspy): https://www.youtube.com/watch?v=oKBXH8uTFHE
+- Ep 11, Nader Bastaki (Dubai Future District Fund): https://www.youtube.com/watch?v=X3-n1BSYl9g
+- Ep 12, Omar Al Yawer (Rüya Partners): https://www.youtube.com/watch?v=JgTtnOKKKB4
+- Ep 13, Mohamad Kaswani (ex Mortgage Finder): https://www.youtube.com/watch?v=nVutIDpMhs0
+- Ep 14, Vishnu Katara (MAL): https://www.youtube.com/watch?v=RFyOwRZZSas
+- Ep 15, Armineh Baghoomian (PFG): https://www.youtube.com/watch?v=Bswa_N5huto
 
 The seats and the method are our own work and do not represent the views of the show or its guests.
 

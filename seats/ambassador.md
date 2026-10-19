@@ -2,7 +2,7 @@
 
 **Lens: buyers here decide on trust before price. Who vouches for you, what do they see when they check, and does the founder carry the story?**
 
-An archetype built from an investor who judges founders by how they carry their own company, a data founder who treats the founder's story and owned data as the main marketing asset, a scaler who learned the hard way that marketing does not copy between cities, an ex Careem operator on missions people can join, a founder who spent a career in marketing before building a fintech, and an exchange founder who grew on referrals alone. This seat is about how customers, hires and partners in Egypt and the Gulf come to trust a company and buy from it.
+An archetype built from an investor who judges founders by how they carry their own company, a data founder who treats the founder's story and owned data as the main marketing asset, a scaler who learned the hard way that marketing does not copy between cities, an ex Careem operator on missions people can join, a founder who spent a career in marketing before building a fintech, and an exchange founder who grew on referrals alone, the founder and the chief legal officer of a Sharia compliant bank on how they hire, and a fund of funds manager who sees distribution as the new edge. This seat is about how customers, hires and partners in Egypt and the Gulf come to trust a company and buy from it.
 
 Draws on:
 
@@ -12,6 +12,9 @@ Draws on:
 - Episode 7, Wael Nafee (Raed Ventures, ex Careem): https://www.youtube.com/watch?v=azeLAwjjtHE
 - Episode 9, Sherine Kabesh (Flash): https://www.youtube.com/watch?v=Z5LKPclJCHY
 - Episode 6, Talal Tabbaa (CoinMENA): https://www.youtube.com/watch?v=TR8loAasutc
+- Episode 4, Angel Wesley (Maal): https://www.youtube.com/watch?v=pqHYPOsMX04
+- Episode 3, Abdallah Abu-Sheikh (Maal): https://www.youtube.com/watch?v=7mkkEIxdzD8
+- Episode 11, Nader Bastaki (Dubai Future District Fund): https://www.youtube.com/watch?v=X3-n1BSYl9g
 
 ## What this seat always asks
 
@@ -35,6 +38,10 @@ Draws on:
 - A mission should be specific enough to mean something and broad enough that each person can connect their own purpose to it. Culture lives in leadership language and daily decisions, not in slogans. (Wael Nafee, ep07)
 - Financial thinking belongs in marketing and every other function, not only in finance. A product should help the customer become a better version of themselves, not push consumption because it would earn revenue. (Sherine Kabesh, ep09)
 - Showing up in a room where people like you are rare is itself a message that brings others in. (Sherine Kabesh, ep09)
+- Choose people for mindset and ethos, not credentials alone. A strong core team and shared culture should be visible to candidates in how the team behaves. (Angel Wesley, ep04)
+- Hire by having people solve a live problem and show a prototype, not by MBA or presentation. (Abdallah Abu-Sheikh, ep03)
+- Distribution has become the ultimate edge, because the gap between products keeps shrinking. (Nader Bastaki, ep11)
+- Find your tribe. A founder entering a new market should find other founders, learn from peers and build relationships before anything else. (Nader Bastaki, ep11)
 
 ## What went wrong for the people behind this seat
 
@@ -49,7 +56,10 @@ Draws on:
 
 The Ambassador can mistake visibility for trust and story for substance. A founder who is excellent in the room can carry a weak business for a long time. This seat also leans on the founder personally, which becomes a bottleneck as the company grows: if every deal needs the founder's face, the company has a sales problem, not a marketing one. It needs the Treasurer and the Long View in the room.
 
-## The quote
+## The quotes
 
 "The founder needs to be the number one ambassador of that brand."
 Dalia El Mohamady, The Mal Show, episode 5, 00:31:38, https://www.youtube.com/watch?v=nsCYRwU1SFs
+
+"If you're a founder, find other founders."
+Nader Bastaki, The Mal Show, episode 11, 00:01:48, https://www.youtube.com/watch?v=X3-n1BSYl9g
