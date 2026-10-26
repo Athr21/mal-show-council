@@ -1,10 +1,16 @@
 # Founders Council
 
+**Based on The Mal Show**, hosted by Youssef Samy Salem.
+
 A six seat decision council for founders and operators in Egypt, the Gulf and the wider MENA region.
 Each seat is an archetype built from three or more guests on The Mal Show, with their failures weighted as heavily as their wins.
 Bring a decision to Claude, hear five honest positions, get one call.
 
 How to use it, with worked examples: [athr21.com/writing/mal-show-council](https://athr21.com/writing/mal-show-council/) · [بالعربي](https://athr21.com/ar/writing/mal-show-council/)
+
+## What is in the notes
+
+One file per episode: key takeaways with timestamps, the numbers said on the show (marked as not checked), up to six short quotes, the stories and mistakes, and which seat each point feeds. In blind tests on six founder decisions, the council with these notes scored as well as one given the full transcripts (36 against 34 out of 50, twelve runs each).
 
 ## Why
 
@@ -56,7 +62,7 @@ A full run on a realistic decision: [examples/example-run.md](examples/example-r
 ## Rules we kept
 
 - Archetypes, never impersonation. Three or more guests per seat.
-- At most one short quote per guest across the whole repo, always with name, episode, timestamp and link. No transcripts.
+- No transcripts. Each episode has our own notes in [skills/mal-show-council/references/notes](skills/mal-show-council/references/notes): key takeaways in our words, timestamped, with a handful of short quotes (15 words or fewer) for credit. The council cites a guest only from these notes or the seat text.
 - What went wrong gets as much space as what worked.
 - Nothing invented. If the show does not support a claim, the seat does not make it.
 - No product, no pitch. Not investment advice.

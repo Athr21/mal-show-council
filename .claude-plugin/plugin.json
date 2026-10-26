@@ -1,7 +1,7 @@
 {
   "name": "mal-show-council",
-  "version": "0.3.0",
-  "description": "Founders Council: six MENA operator seats built from The Mal Show guests. Bring a decision, hear the seats argue, get one call.",
+  "version": "0.4.0",
+  "description": "Founders Council, based on The Mal Show: six MENA operator seats built from its guests. Bring a decision, hear the seats argue, get one call.",
   "author": { "name": "Athr21", "url": "https://athr21.com" },
   "homepage": "https://athr21.com/writing/mal-show-council/",
   "repository": "https://github.com/Athr21/mal-show-council",
